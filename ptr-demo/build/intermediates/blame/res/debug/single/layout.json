@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_storehouse_header.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_storehouse_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_viewgroup.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_classic_header_with_viewgroup.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\with_grid_view_item_image_list_grid.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\with_grid_view_item_image_list_grid.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_webview.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_classic_header_with_webview.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_item.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_list_view.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_classic_header_with_list_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_pager.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\activity_view_pager.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ptr_home.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_ptr_home.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_pager.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_gridview.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_classic_header_with_gridview.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_fragment_list_view_header.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\view_pager_fragment_list_view_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_materail_style.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_materail_style.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_with_long_press.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_with_long_press.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_textview.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_classic_header_with_textview.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_list_view_and_empty_view.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_classic_header_with_list_view_and_empty_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_indicator_item.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\view_pager_indicator_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\with_long_press_list_view_item.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\with_long_press_list_view_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_scroll_view.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\layout\\fragment_classic_header_with_scroll_view.xml"
+    }
+]

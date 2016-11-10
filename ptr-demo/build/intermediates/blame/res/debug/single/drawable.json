@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable\\with_long_press_list_item_background.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\drawable\\with_long_press_list_item_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable\\text_view_bg.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\drawable\\text_view_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable\\image_border.xml",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\drawable\\image_border.xml"
+    }
+]

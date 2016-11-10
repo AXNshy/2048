@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.jxm.udpmulticast"
+        minSdkVersion 10
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        ndk {
+            moduleName "ndkTest"          //生成的so名字
+            abiFilters "armeabi", "armeabi-v7a", "x86" //输出指定三种abi体系结构下的so库，目前可有可无。}
+        }
+        buildTypes {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            }
+        }
+    }
+
+
+    dependencies {
+        compile fileTree(include: ['*.jar'], dir: 'libs')
+        testCompile 'junit:junit:4.12'
+        compile 'com.android.support:appcompat-v7:24.2.0'
+        compile 'com.google.code.gson:gson:2.7'
+        compile project(':ptr')
+        compile 'tv.danmaku.ijk.media:ijkplayer-java:0.6.3'
+        compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.6.3'
+        compile 'io.reactivex:rxjava:1.2.1'
+        compile files('src/main/libs/disklrucache-2.0.2.jar')
+
+        compile 'com.jakewharton:butterknife:8.4.0'
+        annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+
+    }
+
+}

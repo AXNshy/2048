@@ -1,0 +1,463 @@
+[
+    {
+        "outputFile": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 52,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 55,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 55,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 54,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 54,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 49,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 49,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 62,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 62,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 59,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 59,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 54,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 54,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 60,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 60,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 53,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\exploded-aar\\UdpMulticast\\ptr\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 53,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 58,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 58,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 69,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 69,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 63,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 63,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 63,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 63,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 62,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 62,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 71,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 71,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 63,
+                    "endOffset": 1060
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 63,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1065,
+                    "endColumn": 66,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 66,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 100,
+                    "endOffset": 1228
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 835,
+                        "endColumn": 100,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1233,
+                    "endColumn": 111,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 111,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 77,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 77,
+                        "endOffset": 1190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 89,
+                    "endOffset": 1508
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1027,
+                        "endColumn": 89,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1513,
+                    "endColumn": 91,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 96,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1605,
+                    "endColumn": 84,
+                    "endOffset": 1685
+                },
+                "from": {
+                    "file": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 89,
+                        "endOffset": 1021
+                    }
+                }
+            }
+        ]
+    }
+]

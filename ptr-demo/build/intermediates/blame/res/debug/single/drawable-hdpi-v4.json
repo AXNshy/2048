@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sky.png",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\drawable-hdpi\\sky.png"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sun.png",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\drawable-hdpi\\sun.png"
+    },
+    {
+        "merged": "E:\\Android\\UdpMulticast\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buildings.png",
+        "source": "E:\\Android\\UdpMulticast\\ptr-demo\\res\\drawable-hdpi\\buildings.png"
+    }
+]

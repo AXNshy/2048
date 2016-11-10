@@ -1,0 +1,2 @@
+include ':app', ':ptr', ':2048'
+project(':ptr').projectDir = new File('ptr-lib')
